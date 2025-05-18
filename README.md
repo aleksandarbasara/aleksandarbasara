@@ -1,16 +1,58 @@
-## Hi there 👋
+# 🧠 Aleks Basara
 
-<!--
-**aleksandarbasara/aleksandarbasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder at [Neural Assembly](https://neuralassembly.com)**  
+**Co-founder at [Valanor](https://valanor.tech)**  
+_AI systems and data infrastructure, built with intention._
 
-Here are some ideas to get you started:
+> “Foundations before futures.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+I help organizations make smarter technical bets — by separating the hype from the infrastructure.
+
+### At Neural Assembly:
+- 🧭 AI consulting, education & PoCs  
+- 🛠️ Focused work with LLMs, agents, and edge intelligence  
+- 🎓 Teaching teams how to actually build, not just experiment
+
+### At Valanor:
+- 🏗️ Modern data stack advisory (BigQuery, Databricks, dbt)  
+- 📦 E-commerce infrastructure & analytics  
+- 📊 Execution-focused, tech-agnostic data strategy
+
+---
+
+## What I Believe
+
+- Buzzwords aren’t architecture.  
+- Most PoCs are a waste of time.  
+- Your system should make sense to the people running it.
+
+Whether you're building an inference pipeline or choosing between Snowflake and BigQuery — clarity comes first.
+
+> **Foundations before futures. Always.**
+
+---
+
+## 🛰️ Interests
+
+- Edge AI & real-time perception systems  
+- Autonomous ISR, drones, embedded intelligence  
+- Tactical UIs, devcontainers, AI + ops convergence
+
+---
+
+## 🌐 Connect
+
+- 🌐 [neuralassembly.com](https://neuralassembly.com)  
+- 🧠 [neuralassembly.substack.com](https://neuralassembly.substack.com)  
+- 🏢 [valanor.tech](https://valanor.tech)  
+- 🔗 [linkedin.com/in/aleksbasara](https://linkedin.com/in/aleksbasara)  
+- ✖️ [twitter.com/aleksbasara](https://twitter.com/aleksbasara)  
+- 💻 [github.com/aleksandarbasara](https://github.com/aleksandarbasara)
+
+---
+
+_If you're building something technical and want to make sure it survives first contact with reality — let’s talk._
