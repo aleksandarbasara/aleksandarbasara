@@ -46,7 +46,7 @@ Whether you're building an inference pipeline or choosing between Snowflake and 
 
 ## 🌐 Connect
 
-- 🌐 [neuralassembly.com](https://neural-assembly.com)  
+- 🌐 [neural-assembly.com](https://neural-assembly.com)  
 - 🏢 [valanor.co](https://valanor.co)  
 - 🔗 [linkedin.com/in/aleksbasara](https://linkedin.com/in/aleksbasara)  
 - ✖️ [twitter.com/aleksbasara](https://twitter.com/aleksbasara)  
