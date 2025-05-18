@@ -1,7 +1,7 @@
 # 🧠 Aleks Basara
 
-**Founder at [Neural Assembly](https://neuralassembly.com)**  
-**Co-founder at [Valanor](https://valanor.tech)**  
+**Founder at [Neural Assembly](https://neural-assembly.com)**  
+**Co-founder at [Valanor](https://valanor.co)**  
 _AI systems and data infrastructure, built with intention._
 
 > “Foundations before futures.”
@@ -46,9 +46,8 @@ Whether you're building an inference pipeline or choosing between Snowflake and 
 
 ## 🌐 Connect
 
-- 🌐 [neuralassembly.com](https://neuralassembly.com)  
-- 🧠 [neuralassembly.substack.com](https://neuralassembly.substack.com)  
-- 🏢 [valanor.tech](https://valanor.tech)  
+- 🌐 [neuralassembly.com](https://neural-assembly.com)  
+- 🏢 [valanor.co](https://valanor.co)  
 - 🔗 [linkedin.com/in/aleksbasara](https://linkedin.com/in/aleksbasara)  
 - ✖️ [twitter.com/aleksbasara](https://twitter.com/aleksbasara)  
 - 💻 [github.com/aleksandarbasara](https://github.com/aleksandarbasara)
